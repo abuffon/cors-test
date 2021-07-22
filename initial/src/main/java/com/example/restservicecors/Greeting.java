@@ -9,7 +9,7 @@ public class Greeting {
 		this.content = "";
 	}
 
-	public Greeting(long id, String content) {
+	public Greeting(long id, String content) { 
 		this.id = id;
 		this.content = content;
 	}
