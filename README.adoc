@@ -1,3 +1,7 @@
+#### Example from: https://spring.io/guides/gs/rest-service-cors/
+
+# Enabling Cross Origin Requests for a RESTful Web Service
+
 :spring_version: current
 :spring_boot_version: 2.4.3
 :jackson: https://wiki.fasterxml.com/JacksonHome
